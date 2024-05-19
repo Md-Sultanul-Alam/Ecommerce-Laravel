@@ -13,5 +13,3 @@ Password: codeastro.com
 Email   : customer@mail.com
 Password: codeastro.com
 
-
-**Check the Website's Post Page for all the Installation Instructions**

@@ -1,7 +1,5 @@
-**Log on to codeastro.com for more projects!***
 
-
-**Developed by Prajwal Rai**
+**Developed by Md.Sultanul Alam**
 
 
 **Check the Website's Post Page for all the Installation Instructions**
@@ -18,5 +16,3 @@ Password: codeastro.com
 
 
 **Check the Website's Post Page for all the Installation Instructions**
-
-
